@@ -1,3 +1,5 @@
+ 最终效果: [![Build Status](https://travis-ci.org/zhanghuid/bc.svg?branch=master)](https://travis-ci.org/zhanghuid/bc)
+
 ### 练习如何使用travis进行php持续集成
 
 #### 一般的目录结构如下：
