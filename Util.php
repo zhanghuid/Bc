@@ -1,6 +1,0 @@
-<?php
-
-$util = function() {
-
-};
-
