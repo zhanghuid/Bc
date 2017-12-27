@@ -1,0 +1,27 @@
+{
+    "name": "huid/bc",
+    "description": "a object bc function",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "authors": [
+        {
+            "name": "zhanghuid",
+            "email": "2921555618@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Huid\\Bc\\": "src"
+        }    
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Huid\\Bc\\Tests\\": "tests"
+        }
+    },
+
+    "minimum-stability": "dev",
+    "require": {}
+}
