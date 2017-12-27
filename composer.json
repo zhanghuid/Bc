@@ -3,7 +3,7 @@
     "description": "a object bc function",
     "type": "library",
     "require-dev": {
-        "phpunit/phpunit": "^6.5"
+        "phpunit/phpunit": "^5.7"
     },
     "authors": [
         {
