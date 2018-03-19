@@ -10,7 +10,7 @@ tests/
     xxx.php
 vendor
     xxxx
-.travis.xml
+.travis.yml
 composer.json
 phpunit.xml
 ```
